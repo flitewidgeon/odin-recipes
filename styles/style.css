@@ -1,0 +1,44 @@
+body{
+	background-color: darksalmon;
+	font-family: 'Verdana', 'Arial', sans-serif;
+}
+
+h1{
+	text-align: center;
+}
+
+h1, h2{
+	color: black;
+	text-decoration: underline;
+}
+
+
+a{
+	display: block;
+	width: 300px;
+	padding: 10px;
+	text-decoration: none;
+	text-align: center;
+	background-color: orangered;
+	color: white;
+	border: 1px dotted black;
+	margin: 0 auto;
+}
+
+img{
+	border: 5px double black;
+}
+
+.container{
+	width: 500px;
+	margin: 30px auto;
+	border: 1px solid black;
+	padding: 10px 30px;
+	background-color: lightblue;
+}
+
+
+.menu li{
+	list-style-type: none;
+}
+
